@@ -2,10 +2,13 @@
   "name": "VMuzee",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://evdokimovalexey.github.io/VMuzee/",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   },
   "keywords": [],
   "author": "",
@@ -13,15 +16,29 @@
   "devDependencies": {
     "cross-env": "^5.2.0",
     "react-hot-loader": "^4.3.4",
-    "react-scripts": "^1.1.4"
+    "react-scripts": "^2.1.1",
+    "redux-devtools": "^3.4.1"
   },
   "dependencies": {
     "@vkontakte/icons": "^1.2.1",
     "@vkontakte/vkui": "^2.13.0",
     "@vkontakte/vkui-connect": "^1.1.2",
     "core-js": "^2.5.7",
+    "gh-pages": "^2.0.1",
+    "lodash": "^4.17.11",
     "prop-types": "^15.6.2",
     "react": "^16.5.0",
-    "react-dom": "^16.5.0"
-  }
+    "react-autobind": "^1.0.6",
+    "react-dom": "^16.5.0",
+    "react-redux": "^5.1.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "seamless-immutable": "^7.1.4"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
