@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "72515df428255f57d842",
+    "revision": "66b15d3c0fc04ed9ec2d",
     "url": "/VMuzee/static/css/main.a27a519f.chunk.css"
   },
   {
-    "revision": "72515df428255f57d842",
-    "url": "/VMuzee/static/js/main.72515df4.chunk.js"
+    "revision": "66b15d3c0fc04ed9ec2d",
+    "url": "/VMuzee/static/js/main.66b15d3c.chunk.js"
   },
   {
     "revision": "12fa10b46b38ec3be85f",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/VMuzee/static/media/persik.4e1ec840.png"
   },
   {
-    "revision": "74188bde68ad35fc4aecec4dfee1d7a3",
+    "revision": "a5c403a14f1bd61ffded1e8671404f0d",
     "url": "/VMuzee/index.html"
   }
 ];

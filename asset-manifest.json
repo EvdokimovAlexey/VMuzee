@@ -1,7 +1,7 @@
 {
   "main.css": "/VMuzee/static/css/main.a27a519f.chunk.css",
-  "main.js": "/VMuzee/static/js/main.72515df4.chunk.js",
-  "main.js.map": "/VMuzee/static/js/main.72515df4.chunk.js.map",
+  "main.js": "/VMuzee/static/js/main.66b15d3c.chunk.js",
+  "main.js.map": "/VMuzee/static/js/main.66b15d3c.chunk.js.map",
   "static/css/1.7d3fef5b.chunk.css": "/VMuzee/static/css/1.7d3fef5b.chunk.css",
   "static/js/1.12fa10b4.chunk.js": "/VMuzee/static/js/1.12fa10b4.chunk.js",
   "static/js/1.12fa10b4.chunk.js.map": "/VMuzee/static/js/1.12fa10b4.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.a27a519f.chunk.css.map": "/VMuzee/static/css/main.a27a519f.chunk.css.map",
   "static/css/1.7d3fef5b.chunk.css.map": "/VMuzee/static/css/1.7d3fef5b.chunk.css.map",
   "index.html": "/VMuzee/index.html",
-  "precache-manifest.6f7e6e5815914fd85369ad40ed3ab8c1.js": "/VMuzee/precache-manifest.6f7e6e5815914fd85369ad40ed3ab8c1.js",
+  "precache-manifest.149c567135d685313b0d60ae4c75375a.js": "/VMuzee/precache-manifest.149c567135d685313b0d60ae4c75375a.js",
   "service-worker.js": "/VMuzee/service-worker.js"
 }
