@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:/Projects/github/vkhack/VMuzee/src/panels/D:/Projects/github/vkhack/VMuzee/src/panels/Persik.css"],"names":[],"mappings":"AAAA,QACE,cAAe,AACf,UAAW,AACX,gBAAiB,AACjB,gBAAkB,CACnB","file":"main.a27a519f.chunk.css","sourcesContent":[".Persik {\n  display: block;\n  width: 30%;\n  max-width: 240px;\n  margin: 20px auto;\n}\n"]}
