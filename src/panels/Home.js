@@ -18,7 +18,7 @@ const Home = props => (
 		<Group title="Navigation Example">
 			<Div>
 				<Button size="xl" level="2" onClick={props.go} data-to="persik">
-					Show me the Persik, please
+					Show me 
 				</Button>
 				<Button size="xl" level="2" onClick={props.go} data-to="userRequest">
 					User Request
