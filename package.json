@@ -21,8 +21,8 @@
   },
   "dependencies": {
     "@vkontakte/icons": "^1.2.1",
-    "@vkontakte/vkui": "^2.13.0",
-    "@vkontakte/vkui-connect": "^1.1.2",
+    "@vkontakte/vkui": "^2.5.8",
+    "@vkontakte/vkui-connect": "^1.0.0",
     "core-js": "^2.5.7",
     "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
