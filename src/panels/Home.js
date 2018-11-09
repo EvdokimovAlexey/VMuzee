@@ -20,6 +20,9 @@ const Home = props => (
 				<Button size="xl" level="2" onClick={props.go} data-to="persik">
 					Show me the Persik, please
 				</Button>
+				<Button size="xl" level="2" onClick={props.go} data-to="userRequest">
+					User Request
+				</Button>
 			</Div>
 		</Group>
 	</Panel>
